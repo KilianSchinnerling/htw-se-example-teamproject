@@ -1,1 +1,17 @@
+= Teammitglieder
+Florian Bender <s83627@informatik.htw-dresden.de>; Kilian Schinnerling <s82682@htw-dresden.de>
+1.0, 13.10.2022 
+:toc: 
+:toc-title: Inhaltsverzeichnis
+:source-highlighter: rouge
+:imagesdir: images
+// Platzhalter für weitere Dokumenten-Attribute 
+
 == Teammitglieder
+[#form-table]
+[cols="3*"] 
+|=== 
+|Nachname |Vorname |Teamrolle
+|Schinnerling |Kilian |Person A
+|Bender |Florian |Person B
+|===
