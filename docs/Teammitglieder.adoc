@@ -1,4 +1,4 @@
-= Beispiel-Dokumentation mit AsciiDoc 
+= Teammitglieder
 Florian Bender <s83627@informatik.htw-dresden.de>; Kilian Schinnerling <s82682@htw-dresden.de>
 1.0, 13.10.2022 
 :toc: 
