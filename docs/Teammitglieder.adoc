@@ -14,4 +14,5 @@ Florian Bender <s83627@informatik.htw-dresden.de>; Kilian Schinnerling <s82682@h
 |Nachname |Vorname |Teamrolle
 |Schinnerling |Kilian |Person A
 |Bender |Florian |Person B
+|Mustermann |Max |Person C
 |===
